@@ -9,7 +9,7 @@ I’ve just built a brand-new News App that makes staying informed easier and wa
 📰 Quick Previews with Full Access – Click on any news item to see the image, title, and a brief summary. Like what you see? Tap the “Read Full Article” link to dive deeper without wasting time searching on Google.<br>
 
 ## Demo Video
-🎥 Check out the demo of the app in action on my LinkedIn:
+🎥 Check out the demo of the app in action on my LinkedIn:<br>
 🔗 https://www.linkedin.com/in/atharv-rao-814355292/recent-activity/all/
 
 Let me know what you think—drop a comment! 😃
